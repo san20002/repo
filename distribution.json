@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "<https://animacraftfr.blogspot.com/?m=1>",
+  "rss": "https://animacraftfr.blogspot.com/feeds/posts/default?alt=rss",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -11,7 +11,7 @@
       "id": "animacraft-1.12.2",
       "name": "animacraft (Minecraft 1.12.2)",
       "description": "animacraft Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
-      "icon": null,
+      "icon": "https://i.ibb.co/FzwRgdK/Logo-AC-368px.png",
       "version": "1.0.0",
       "address": "mc.animacraft.fr:25577",
       "minecraftVersion": "1.12.2",
