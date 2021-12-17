@@ -331,6 +331,16 @@
           ]
         },
         {
+          "id": "com.alextheking281.animamod:attachment_1638906022:0.0.0@jar",
+          "name": "Attachment_1638906022",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1750091,
+            "url": "https://animcraft1.000webhostapp.com/servers/animacraft-1.15.2/forgemods/required/Attachment_1638906022.jar",
+            "MD5": "f28c7cb67b9f8bc8abeb6316492e6ddf"
+          }
+        },
+        {
           "id": "lumien.custommainmenu:custommainmenu:MC1.12.2-2.0.9.1@jar",
           "name": "CustomMainMenu",
           "type": "ForgeMod",
