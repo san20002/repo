@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/fiverroot/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Blockbreaking (Minecraft 1.14.4)",
+    "description": "Blockbreaking Running Minecraft 1.14.4 (Forge v28.2.26)",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "28.2.26"
+  },
+  "untrackedFiles": []
+}
